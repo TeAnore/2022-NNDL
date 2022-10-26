@@ -3,7 +3,7 @@
 __Выполнил:__ магистр 6231-010402D Чаплыгин Алексей
 
 Список лабораторных работ:
-* [x] [Лабораторная работа 1](https://github.com/TeAnore/2022-NNDL/blob/main/Lab1_ChaplyginAO/Lab1_6231_ChaplyginAO.ipynb) Вариант 1: задания 1 и 2 на наборе данных CIFAR-10
-* [ ] [Лабораторная работа 2](https://github.com/TeAnore/2022-NNDL/blob/main/Lab2_ChaplyginAO/Lab2_6231_ChaplyginAO.ipynb) Лабораторная работа 2 - Полносвязная нейронная сеть
+* [x] [Лабораторная работа 1](https://github.com/TeAnore/2022-NNDL/blob/main/Lab1_ChaplyginAO/Lab1_6231_ChaplyginAO.ipynb) Классификация данных на наборе данных CIFAR-10
+* [ ] [Лабораторная работа 2](https://github.com/TeAnore/2022-NNDL/blob/main/Lab2_ChaplyginAO/Lab2_6231_ChaplyginAO.ipynb) Полносвязная нейронная сеть
 * [ ] [Лабораторная работа 3]()
 * [ ] [Лабораторная работа 4]()
